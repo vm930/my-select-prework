@@ -12,8 +12,6 @@ def my_select(collection)
 end
 
 
-
-
 # def my_select(array)
 # # your code here!
 # if (array.length === 0)
